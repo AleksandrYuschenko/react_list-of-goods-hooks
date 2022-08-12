@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,KAEE,yBAAkB,CAAlB,iBAAkB,CAClB,gBACF,CAEA,gBACE,sBAAuB,CACvB,UACF","file":"main.a112947e.chunk.css","sourcesContent":["/* put styles here */\n\n.App {\n\n  width: max-content;\n  margin: 25vh auto;\n}\n\n.button--active {\n  background-color: green;\n  color: #fff;\n}\n"]}
