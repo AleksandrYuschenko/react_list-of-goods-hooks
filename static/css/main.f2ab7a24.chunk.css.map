@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KAEE,yBAAkB,CAAlB,iBAAkB,CAClB,gBACF,CAEA,cACE,sBAAuB,CACvB,UACF","file":"main.f2ab7a24.chunk.css","sourcesContent":["/* put styles here */\n.App {\n\n  width: max-content;\n  margin: 25vh auto;\n}\n\n.button:focus {\n  background-color: green;\n  color: #fff;\n}\n"]}
